@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @koatheraiser
+- 👀 I’m interested in AI, Artificial Behavior, Automation.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Chatbot & virtual assistent projects
+- 📫 How to reach me: koatheraiser@gmail.com
